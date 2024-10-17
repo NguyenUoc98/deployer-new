@@ -1,0 +1,21 @@
+{
+    "name": "uocnv/deployer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyễn Văn Ước",
+            "email": "uocnv.soict.hust@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "php": ">=7.2.5"
+    },
+    "require": {
+        "symfony/var-dumper": "5.4.x-dev",
+        "illuminate/collections": ">=7",
+        "deployer/deployer": "v6.8",
+      "ext-zend-opcache": "*"
+    }
+}
