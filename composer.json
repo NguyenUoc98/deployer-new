@@ -15,7 +15,7 @@
     "require": {
         "symfony/var-dumper": "5.4.x-dev",
         "illuminate/collections": ">=7",
-        "deployer/deployer": "v6.8",
+        "deployer/deployer": "v7.0.0",
         "ext-zend-opcache": "*"
     }
 }
